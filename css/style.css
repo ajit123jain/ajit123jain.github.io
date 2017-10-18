@@ -137,7 +137,7 @@ header{
             Introduction Section
 ------------------------------------------*/
 #introduction{
-    background: url("../img/back.jpg");
+    background: url("../img/3.jpg");
     width: 100%;
     height: 100vh;
     background-position: top;
@@ -149,7 +149,7 @@ header{
     width: 100%;
     height: 100vh;
     opacity: 0.8;
-    background: #2B3343; /* Old Browsers */
+     /* Old Browsers */
 
 }
 #introduction .landing-text {
